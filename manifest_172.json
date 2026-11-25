@@ -1,0 +1,2599 @@
+{
+  "schema_version": "1.0",
+  "description": "特雷森学园全 172 名角色立绘外链命名清单（支持 GitHub + jsDelivr 零体积自动加载）",
+  "total_characters": 172,
+  "playable_gametora_count": 145,
+  "local_54_char_count": 18,
+  "recommended_dir": "characters/",
+  "supported_formats": [
+    "webp",
+    "png"
+  ],
+  "variants": [
+    "racewear",
+    "uniform",
+    "thumb"
+  ],
+  "characters": [
+    {
+      "cid": 1,
+      "uma_id": 1001,
+      "name_zh": "特别周",
+      "name_jp": "スペシャルウィーク",
+      "category": "uma",
+      "outfit_id": "100101",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1001_racewear.webp",
+        "1001_uniform.webp",
+        "1001_thumb.webp"
+      ]
+    },
+    {
+      "cid": 2,
+      "uma_id": 1002,
+      "name_zh": "无声铃鹿",
+      "name_jp": "サイレンススズカ",
+      "category": "uma",
+      "outfit_id": "100201",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1002_racewear.webp",
+        "1002_uniform.webp",
+        "1002_thumb.webp"
+      ]
+    },
+    {
+      "cid": 3,
+      "uma_id": 1003,
+      "name_zh": "东海帝王",
+      "name_jp": "トウカイテイオー",
+      "category": "uma",
+      "outfit_id": "100301",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1003_racewear.webp",
+        "1003_uniform.webp",
+        "1003_thumb.webp"
+      ]
+    },
+    {
+      "cid": 4,
+      "uma_id": 1004,
+      "name_zh": "丸善斯基",
+      "name_jp": "マルゼンスキー",
+      "category": "uma",
+      "outfit_id": "100401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1004_racewear.webp",
+        "1004_uniform.webp",
+        "1004_thumb.webp"
+      ]
+    },
+    {
+      "cid": 5,
+      "uma_id": 1005,
+      "name_zh": "富士奇石",
+      "name_jp": "フジキセキ",
+      "category": "uma",
+      "outfit_id": "100501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1005_racewear.webp",
+        "1005_uniform.webp",
+        "1005_thumb.webp"
+      ]
+    },
+    {
+      "cid": 6,
+      "uma_id": 1006,
+      "name_zh": "小栗帽",
+      "name_jp": "オグリキャップ",
+      "category": "uma",
+      "outfit_id": "100601",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1006_racewear.webp",
+        "1006_uniform.webp",
+        "1006_thumb.webp"
+      ]
+    },
+    {
+      "cid": 7,
+      "uma_id": 1007,
+      "name_zh": "黄金船",
+      "name_jp": "ゴールドシップ",
+      "category": "uma",
+      "outfit_id": "100701",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1007_racewear.webp",
+        "1007_uniform.webp",
+        "1007_thumb.webp"
+      ]
+    },
+    {
+      "cid": 8,
+      "uma_id": 1008,
+      "name_zh": "伏特加",
+      "name_jp": "ウオッカ",
+      "category": "uma",
+      "outfit_id": "100801",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1008_racewear.webp",
+        "1008_uniform.webp",
+        "1008_thumb.webp"
+      ]
+    },
+    {
+      "cid": 9,
+      "uma_id": 1009,
+      "name_zh": "大和赤骥",
+      "name_jp": "ダイワスカーレット",
+      "category": "uma",
+      "outfit_id": "100901",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1009_racewear.webp",
+        "1009_uniform.webp",
+        "1009_thumb.webp"
+      ]
+    },
+    {
+      "cid": 10,
+      "uma_id": 1010,
+      "name_zh": "大树快车",
+      "name_jp": "タイキシャトル",
+      "category": "uma",
+      "outfit_id": "101001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1010_racewear.webp",
+        "1010_uniform.webp",
+        "1010_thumb.webp"
+      ]
+    },
+    {
+      "cid": 11,
+      "uma_id": 1011,
+      "name_zh": "草上飞",
+      "name_jp": "グラスワンダー",
+      "category": "uma",
+      "outfit_id": "101101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1011_racewear.webp",
+        "1011_uniform.webp",
+        "1011_thumb.webp"
+      ]
+    },
+    {
+      "cid": 12,
+      "uma_id": 1012,
+      "name_zh": "菱亚马逊",
+      "name_jp": "ヒシアマゾン",
+      "category": "uma",
+      "outfit_id": "101201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1012_racewear.webp",
+        "1012_uniform.webp",
+        "1012_thumb.webp"
+      ]
+    },
+    {
+      "cid": 13,
+      "uma_id": 1013,
+      "name_zh": "目白麦昆",
+      "name_jp": "メジロマックイーン",
+      "category": "uma",
+      "outfit_id": "101301",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1013_racewear.webp",
+        "1013_uniform.webp",
+        "1013_thumb.webp"
+      ]
+    },
+    {
+      "cid": 14,
+      "uma_id": 1014,
+      "name_zh": "神鹰",
+      "name_jp": "エルコンドルパサー",
+      "category": "uma",
+      "outfit_id": "101401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1014_racewear.webp",
+        "1014_uniform.webp",
+        "1014_thumb.webp"
+      ]
+    },
+    {
+      "cid": 15,
+      "uma_id": 1015,
+      "name_zh": "好歌剧",
+      "name_jp": "テイエムオペラオー",
+      "category": "uma",
+      "outfit_id": "101501",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1015_racewear.webp",
+        "1015_uniform.webp",
+        "1015_thumb.webp"
+      ]
+    },
+    {
+      "cid": 16,
+      "uma_id": 1016,
+      "name_zh": "成田白仁",
+      "name_jp": "ナリタブライアン",
+      "category": "uma",
+      "outfit_id": "101601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1016_racewear.webp",
+        "1016_uniform.webp",
+        "1016_thumb.webp"
+      ]
+    },
+    {
+      "cid": 17,
+      "uma_id": 1017,
+      "name_zh": "鲁铎象征",
+      "name_jp": "シンボリルドルフ",
+      "category": "uma",
+      "outfit_id": "101701",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1017_racewear.webp",
+        "1017_uniform.webp",
+        "1017_thumb.webp"
+      ]
+    },
+    {
+      "cid": 18,
+      "uma_id": 1018,
+      "name_zh": "气槽",
+      "name_jp": "エアグルーヴ",
+      "category": "uma",
+      "outfit_id": "101801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1018_racewear.webp",
+        "1018_uniform.webp",
+        "1018_thumb.webp"
+      ]
+    },
+    {
+      "cid": 19,
+      "uma_id": 1019,
+      "name_zh": "爱丽数码",
+      "name_jp": "アグネスデジタル",
+      "category": "uma",
+      "outfit_id": "101901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1019_racewear.webp",
+        "1019_uniform.webp",
+        "1019_thumb.webp"
+      ]
+    },
+    {
+      "cid": 20,
+      "uma_id": 1020,
+      "name_zh": "青云天空",
+      "name_jp": "セイウンスカイ",
+      "category": "uma",
+      "outfit_id": "102001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1020_racewear.webp",
+        "1020_uniform.webp",
+        "1020_thumb.webp"
+      ]
+    },
+    {
+      "cid": 21,
+      "uma_id": 1021,
+      "name_zh": "玉藻十字",
+      "name_jp": "タマモクロス",
+      "category": "uma",
+      "outfit_id": "102101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1021_racewear.webp",
+        "1021_uniform.webp",
+        "1021_thumb.webp"
+      ]
+    },
+    {
+      "cid": 22,
+      "uma_id": 1022,
+      "name_zh": "美妙姿势",
+      "name_jp": "ファインモーション",
+      "category": "uma",
+      "outfit_id": "102201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1022_racewear.webp",
+        "1022_uniform.webp",
+        "1022_thumb.webp"
+      ]
+    },
+    {
+      "cid": 23,
+      "uma_id": 1023,
+      "name_zh": "琵琶晨光",
+      "name_jp": "ビワハヤヒデ",
+      "category": "uma",
+      "outfit_id": "102301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1023_racewear.webp",
+        "1023_uniform.webp",
+        "1023_thumb.webp"
+      ]
+    },
+    {
+      "cid": 24,
+      "uma_id": 1024,
+      "name_zh": "摩耶重炮",
+      "name_jp": "マヤノトップガン",
+      "category": "uma",
+      "outfit_id": "102401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1024_racewear.webp",
+        "1024_uniform.webp",
+        "1024_thumb.webp"
+      ]
+    },
+    {
+      "cid": 25,
+      "uma_id": 1025,
+      "name_zh": "曼城茶座",
+      "name_jp": "マンハッタンカフェ",
+      "category": "uma",
+      "outfit_id": "102501",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1025_racewear.webp",
+        "1025_uniform.webp",
+        "1025_thumb.webp"
+      ]
+    },
+    {
+      "cid": 26,
+      "uma_id": 1026,
+      "name_zh": "美浦波旁",
+      "name_jp": "ミホノブルボン",
+      "category": "uma",
+      "outfit_id": "102601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1026_racewear.webp",
+        "1026_uniform.webp",
+        "1026_thumb.webp"
+      ]
+    },
+    {
+      "cid": 27,
+      "uma_id": 1027,
+      "name_zh": "目白莱恩",
+      "name_jp": "メジロライアン",
+      "category": "uma",
+      "outfit_id": "102701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1027_racewear.webp",
+        "1027_uniform.webp",
+        "1027_thumb.webp"
+      ]
+    },
+    {
+      "cid": 28,
+      "uma_id": 1028,
+      "name_zh": "菱曙",
+      "name_jp": "ヒシアケボノ",
+      "category": "uma",
+      "outfit_id": "102801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1028_racewear.webp",
+        "1028_uniform.webp",
+        "1028_thumb.webp"
+      ]
+    },
+    {
+      "cid": 29,
+      "uma_id": 1029,
+      "name_zh": "雪之美人",
+      "name_jp": "ユキノビジン",
+      "category": "uma",
+      "outfit_id": "102901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1029_racewear.webp",
+        "1029_uniform.webp",
+        "1029_thumb.webp"
+      ]
+    },
+    {
+      "cid": 30,
+      "uma_id": 1030,
+      "name_zh": "米浴",
+      "name_jp": "ライスシャワー",
+      "category": "uma",
+      "outfit_id": "103001",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1030_racewear.webp",
+        "1030_uniform.webp",
+        "1030_thumb.webp"
+      ]
+    },
+    {
+      "cid": 31,
+      "uma_id": 1031,
+      "name_zh": "艾尼斯风神",
+      "name_jp": "アイネスフウジン",
+      "category": "uma",
+      "outfit_id": "103101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1031_racewear.webp",
+        "1031_uniform.webp",
+        "1031_thumb.webp"
+      ]
+    },
+    {
+      "cid": 32,
+      "uma_id": 1032,
+      "name_zh": "爱丽速子",
+      "name_jp": "アグネスタキオン",
+      "category": "uma",
+      "outfit_id": "103201",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1032_racewear.webp",
+        "1032_uniform.webp",
+        "1032_thumb.webp"
+      ]
+    },
+    {
+      "cid": 33,
+      "uma_id": 1033,
+      "name_zh": "爱慕织姬",
+      "name_jp": "アドマイヤベガ",
+      "category": "uma",
+      "outfit_id": "103301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1033_racewear.webp",
+        "1033_uniform.webp",
+        "1033_thumb.webp"
+      ]
+    },
+    {
+      "cid": 34,
+      "uma_id": 1034,
+      "name_zh": "稻荷一",
+      "name_jp": "イナリワン",
+      "category": "uma",
+      "outfit_id": "103401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1034_racewear.webp",
+        "1034_uniform.webp",
+        "1034_thumb.webp"
+      ]
+    },
+    {
+      "cid": 35,
+      "uma_id": 1035,
+      "name_zh": "胜利奖券",
+      "name_jp": "ウイニングチケット",
+      "category": "uma",
+      "outfit_id": "103501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1035_racewear.webp",
+        "1035_uniform.webp",
+        "1035_thumb.webp"
+      ]
+    },
+    {
+      "cid": 36,
+      "uma_id": 1036,
+      "name_zh": "空中神宫",
+      "name_jp": "エアシャカール",
+      "category": "uma",
+      "outfit_id": "103601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1036_racewear.webp",
+        "1036_uniform.webp",
+        "1036_thumb.webp"
+      ]
+    },
+    {
+      "cid": 37,
+      "uma_id": 1037,
+      "name_zh": "荣进闪耀",
+      "name_jp": "エイシンフラッシュ",
+      "category": "uma",
+      "outfit_id": "103701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1037_racewear.webp",
+        "1037_uniform.webp",
+        "1037_thumb.webp"
+      ]
+    },
+    {
+      "cid": 38,
+      "uma_id": 1038,
+      "name_zh": "真机伶",
+      "name_jp": "カレンチャン",
+      "category": "uma",
+      "outfit_id": "103801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1038_racewear.webp",
+        "1038_uniform.webp",
+        "1038_thumb.webp"
+      ]
+    },
+    {
+      "cid": 39,
+      "uma_id": 1039,
+      "name_zh": "川上公主",
+      "name_jp": "カワカミプリンセス",
+      "category": "uma",
+      "outfit_id": "103901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1039_racewear.webp",
+        "1039_uniform.webp",
+        "1039_thumb.webp"
+      ]
+    },
+    {
+      "cid": 40,
+      "uma_id": 1040,
+      "name_zh": "黄金城市",
+      "name_jp": "ゴールドシチー",
+      "category": "uma",
+      "outfit_id": "104001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1040_racewear.webp",
+        "1040_uniform.webp",
+        "1040_thumb.webp"
+      ]
+    },
+    {
+      "cid": 41,
+      "uma_id": 1041,
+      "name_zh": "樱花进王",
+      "name_jp": "サクラバクシンオー",
+      "category": "uma",
+      "outfit_id": "104101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1041_racewear.webp",
+        "1041_uniform.webp",
+        "1041_thumb.webp"
+      ]
+    },
+    {
+      "cid": 42,
+      "uma_id": 1042,
+      "name_zh": "采珠",
+      "name_jp": "シーキングザパール",
+      "category": "uma",
+      "outfit_id": "104201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1042_racewear.webp",
+        "1042_uniform.webp",
+        "1042_thumb.webp"
+      ]
+    },
+    {
+      "cid": 43,
+      "uma_id": 1043,
+      "name_zh": "新光风",
+      "name_jp": "シンコウウインディ",
+      "category": "uma",
+      "outfit_id": "104301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1043_racewear.webp",
+        "1043_uniform.webp",
+        "1043_thumb.webp"
+      ]
+    },
+    {
+      "cid": 44,
+      "uma_id": 1044,
+      "name_zh": "东商变革",
+      "name_jp": "スイープトウショウ",
+      "category": "uma",
+      "outfit_id": "104401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1044_racewear.webp",
+        "1044_uniform.webp",
+        "1044_thumb.webp"
+      ]
+    },
+    {
+      "cid": 45,
+      "uma_id": 1045,
+      "name_zh": "超级小海湾",
+      "name_jp": "スーパークリーク",
+      "category": "uma",
+      "outfit_id": "104501",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1045_racewear.webp",
+        "1045_uniform.webp",
+        "1045_thumb.webp"
+      ]
+    },
+    {
+      "cid": 46,
+      "uma_id": 1046,
+      "name_zh": "醒目飞鹰",
+      "name_jp": "スマートファルコン",
+      "category": "uma",
+      "outfit_id": "104601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1046_racewear.webp",
+        "1046_uniform.webp",
+        "1046_thumb.webp"
+      ]
+    },
+    {
+      "cid": 47,
+      "uma_id": 1047,
+      "name_zh": "荒漠英雄",
+      "name_jp": "ゼンノロブロイ",
+      "category": "uma",
+      "outfit_id": "104701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1047_racewear.webp",
+        "1047_uniform.webp",
+        "1047_thumb.webp"
+      ]
+    },
+    {
+      "cid": 48,
+      "uma_id": 1048,
+      "name_zh": "东瀛佐敦",
+      "name_jp": "トーセンジョーダン",
+      "category": "uma",
+      "outfit_id": "104801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1048_racewear.webp",
+        "1048_uniform.webp",
+        "1048_thumb.webp"
+      ]
+    },
+    {
+      "cid": 49,
+      "uma_id": 1049,
+      "name_zh": "中山庆典",
+      "name_jp": "ナカヤマフェスタ",
+      "category": "uma",
+      "outfit_id": "104901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1049_racewear.webp",
+        "1049_uniform.webp",
+        "1049_thumb.webp"
+      ]
+    },
+    {
+      "cid": 50,
+      "uma_id": 1050,
+      "name_zh": "成田大进",
+      "name_jp": "ナリタタイシン",
+      "category": "uma",
+      "outfit_id": "105001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1050_racewear.webp",
+        "1050_uniform.webp",
+        "1050_thumb.webp"
+      ]
+    },
+    {
+      "cid": 51,
+      "uma_id": 1051,
+      "name_zh": "西野花",
+      "name_jp": "ニシノフラワー",
+      "category": "uma",
+      "outfit_id": "105101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1051_racewear.webp",
+        "1051_uniform.webp",
+        "1051_thumb.webp"
+      ]
+    },
+    {
+      "cid": 52,
+      "uma_id": 1052,
+      "name_zh": "春乌拉拉",
+      "name_jp": "ハルウララ",
+      "category": "uma",
+      "outfit_id": "105201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1052_racewear.webp",
+        "1052_uniform.webp",
+        "1052_thumb.webp"
+      ]
+    },
+    {
+      "cid": 53,
+      "uma_id": 1053,
+      "name_zh": "青竹回忆",
+      "name_jp": "バンブーメモリー",
+      "category": "uma",
+      "outfit_id": "105301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1053_racewear.webp",
+        "1053_uniform.webp",
+        "1053_thumb.webp"
+      ]
+    },
+    {
+      "cid": 54,
+      "uma_id": 1054,
+      "name_zh": "微光飞驹",
+      "name_jp": "ビコーペガサス",
+      "category": "uma",
+      "outfit_id": "105401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1054_racewear.webp",
+        "1054_uniform.webp",
+        "1054_thumb.webp"
+      ]
+    },
+    {
+      "cid": 55,
+      "uma_id": 1055,
+      "name_zh": "美丽周日",
+      "name_jp": "マーベラスサンデー",
+      "category": "uma",
+      "outfit_id": "105501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1055_racewear.webp",
+        "1055_uniform.webp",
+        "1055_thumb.webp"
+      ]
+    },
+    {
+      "cid": 56,
+      "uma_id": 1056,
+      "name_zh": "待兼福来",
+      "name_jp": "マチカネフクキタル",
+      "category": "uma",
+      "outfit_id": "105601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1056_racewear.webp",
+        "1056_uniform.webp",
+        "1056_thumb.webp"
+      ]
+    },
+    {
+      "cid": 57,
+      "uma_id": 1057,
+      "name_zh": "千明代表",
+      "name_jp": "ミスターシービー",
+      "category": "uma",
+      "outfit_id": "105701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1057_racewear.webp",
+        "1057_uniform.webp",
+        "1057_thumb.webp"
+      ]
+    },
+    {
+      "cid": 58,
+      "uma_id": 1058,
+      "name_zh": "名将怒涛",
+      "name_jp": "メイショウドトウ",
+      "category": "uma",
+      "outfit_id": "105801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1058_racewear.webp",
+        "1058_uniform.webp",
+        "1058_thumb.webp"
+      ]
+    },
+    {
+      "cid": 59,
+      "uma_id": 1059,
+      "name_zh": "目白多伯",
+      "name_jp": "メジロドーベル",
+      "category": "uma",
+      "outfit_id": "105901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1059_racewear.webp",
+        "1059_uniform.webp",
+        "1059_thumb.webp"
+      ]
+    },
+    {
+      "cid": 60,
+      "uma_id": 1060,
+      "name_zh": "优秀素质",
+      "name_jp": "ナイスネイチャ",
+      "category": "uma",
+      "outfit_id": "106001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1060_racewear.webp",
+        "1060_uniform.webp",
+        "1060_thumb.webp"
+      ]
+    },
+    {
+      "cid": 61,
+      "uma_id": 1061,
+      "name_zh": "圣王光环",
+      "name_jp": "キングヘイロー",
+      "category": "uma",
+      "outfit_id": "106101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1061_racewear.webp",
+        "1061_uniform.webp",
+        "1061_thumb.webp"
+      ]
+    },
+    {
+      "cid": 62,
+      "uma_id": 1062,
+      "name_zh": "待兼诗歌剧",
+      "name_jp": "マチカネタンホイザ",
+      "category": "uma",
+      "outfit_id": "106201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1062_racewear.webp",
+        "1062_uniform.webp",
+        "1062_thumb.webp"
+      ]
+    },
+    {
+      "cid": 63,
+      "uma_id": 1063,
+      "name_zh": "生野狄杜斯",
+      "name_jp": "イクノディクタス",
+      "category": "uma",
+      "outfit_id": "106301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1063_racewear.webp",
+        "1063_uniform.webp",
+        "1063_thumb.webp"
+      ]
+    },
+    {
+      "cid": 64,
+      "uma_id": 1064,
+      "name_zh": "目白善信",
+      "name_jp": "メジロパーマー",
+      "category": "uma",
+      "outfit_id": "106401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1064_racewear.webp",
+        "1064_uniform.webp",
+        "1064_thumb.webp"
+      ]
+    },
+    {
+      "cid": 65,
+      "uma_id": 1065,
+      "name_zh": "大拓太阳神",
+      "name_jp": "ダイタクヘリオス",
+      "category": "uma",
+      "outfit_id": "106501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1065_racewear.webp",
+        "1065_uniform.webp",
+        "1065_thumb.webp"
+      ]
+    },
+    {
+      "cid": 66,
+      "uma_id": 1066,
+      "name_zh": "双涡轮",
+      "name_jp": "ツインターボ",
+      "category": "uma",
+      "outfit_id": "106601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1066_racewear.webp",
+        "1066_uniform.webp",
+        "1066_thumb.webp"
+      ]
+    },
+    {
+      "cid": 67,
+      "uma_id": 1067,
+      "name_zh": "里见光钻",
+      "name_jp": "サトノダイヤモンド",
+      "category": "uma",
+      "outfit_id": "106701",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1067_racewear.webp",
+        "1067_uniform.webp",
+        "1067_thumb.webp"
+      ]
+    },
+    {
+      "cid": 68,
+      "uma_id": 1068,
+      "name_zh": "北部玄驹",
+      "name_jp": "キタサンブラック",
+      "category": "uma",
+      "outfit_id": "106801",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1068_racewear.webp",
+        "1068_uniform.webp",
+        "1068_thumb.webp"
+      ]
+    },
+    {
+      "cid": 69,
+      "uma_id": 1069,
+      "name_zh": "樱花千代王",
+      "name_jp": "サクラチヨノオー",
+      "category": "uma",
+      "outfit_id": "106901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1069_racewear.webp",
+        "1069_uniform.webp",
+        "1069_thumb.webp"
+      ]
+    },
+    {
+      "cid": 70,
+      "uma_id": 1070,
+      "name_zh": "天狼星象征",
+      "name_jp": "シリウスシンボリ",
+      "category": "uma",
+      "outfit_id": "107001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1070_racewear.webp",
+        "1070_uniform.webp",
+        "1070_thumb.webp"
+      ]
+    },
+    {
+      "cid": 71,
+      "uma_id": 1071,
+      "name_zh": "目白阿尔丹",
+      "name_jp": "メジロアルダン",
+      "category": "uma",
+      "outfit_id": "107101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1071_racewear.webp",
+        "1071_uniform.webp",
+        "1071_thumb.webp"
+      ]
+    },
+    {
+      "cid": 72,
+      "uma_id": 1072,
+      "name_zh": "八重无敌",
+      "name_jp": "ヤエノムテキ",
+      "category": "uma",
+      "outfit_id": "107201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1072_racewear.webp",
+        "1072_uniform.webp",
+        "1072_thumb.webp"
+      ]
+    },
+    {
+      "cid": 73,
+      "uma_id": 1073,
+      "name_zh": "鹤丸刚志",
+      "name_jp": "ツルマルツヨシ",
+      "category": "uma",
+      "outfit_id": "107301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1073_racewear.webp",
+        "1073_uniform.webp",
+        "1073_thumb.webp"
+      ]
+    },
+    {
+      "cid": 74,
+      "uma_id": 1074,
+      "name_zh": "目白光明",
+      "name_jp": "メジロブライト",
+      "category": "uma",
+      "outfit_id": "107401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1074_racewear.webp",
+        "1074_uniform.webp",
+        "1074_thumb.webp"
+      ]
+    },
+    {
+      "cid": 75,
+      "uma_id": 1075,
+      "name_zh": "谋勇兼备",
+      "name_jp": "デアリングタクト",
+      "category": "uma",
+      "outfit_id": "107501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1075_racewear.webp",
+        "1075_uniform.webp",
+        "1075_thumb.webp"
+      ]
+    },
+    {
+      "cid": 76,
+      "uma_id": 1076,
+      "name_zh": "樱花桂冠",
+      "name_jp": "サクラローレル",
+      "category": "uma",
+      "outfit_id": "107601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1076_racewear.webp",
+        "1076_uniform.webp",
+        "1076_thumb.webp"
+      ]
+    },
+    {
+      "cid": 77,
+      "uma_id": 1077,
+      "name_zh": "成田路",
+      "name_jp": "ナリタトップロード",
+      "category": "uma",
+      "outfit_id": "107701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1077_racewear.webp",
+        "1077_uniform.webp",
+        "1077_thumb.webp"
+      ]
+    },
+    {
+      "cid": 78,
+      "uma_id": 1078,
+      "name_zh": "也文摄辉",
+      "name_jp": "ヤマニンゼファー",
+      "category": "uma",
+      "outfit_id": "107801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1078_racewear.webp",
+        "1078_uniform.webp",
+        "1078_thumb.webp"
+      ]
+    },
+    {
+      "cid": 79,
+      "uma_id": 1079,
+      "name_zh": "狂怒乐章",
+      "name_jp": "フリオーソ",
+      "category": "uma",
+      "outfit_id": "107901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1079_racewear.webp",
+        "1079_uniform.webp",
+        "1079_thumb.webp"
+      ]
+    },
+    {
+      "cid": 80,
+      "uma_id": 1080,
+      "name_zh": "创升",
+      "name_jp": "トランセンド",
+      "category": "uma",
+      "outfit_id": "108001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1080_racewear.webp",
+        "1080_uniform.webp",
+        "1080_thumb.webp"
+      ]
+    },
+    {
+      "cid": 81,
+      "uma_id": 1081,
+      "name_zh": "希望之城",
+      "name_jp": "エスポワールシチー",
+      "category": "uma",
+      "outfit_id": "108101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1081_racewear.webp",
+        "1081_uniform.webp",
+        "1081_thumb.webp"
+      ]
+    },
+    {
+      "cid": 82,
+      "uma_id": 1082,
+      "name_zh": "北方飞翔",
+      "name_jp": "ノースフライト",
+      "category": "uma",
+      "outfit_id": "108201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1082_racewear.webp",
+        "1082_uniform.webp",
+        "1082_thumb.webp"
+      ]
+    },
+    {
+      "cid": 83,
+      "uma_id": 1083,
+      "name_zh": "吉兆",
+      "name_jp": "シンボリクリスエス",
+      "category": "uma",
+      "outfit_id": "108301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1083_racewear.webp",
+        "1083_uniform.webp",
+        "1083_thumb.webp"
+      ]
+    },
+    {
+      "cid": 84,
+      "uma_id": 1084,
+      "name_zh": "谷水琴蕾",
+      "name_jp": "タニノギムレット",
+      "category": "uma",
+      "outfit_id": "108401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1084_racewear.webp",
+        "1084_uniform.webp",
+        "1084_thumb.webp"
+      ]
+    },
+    {
+      "cid": 85,
+      "uma_id": 1085,
+      "name_zh": "第一红宝石",
+      "name_jp": "ダイイチルビー",
+      "category": "uma",
+      "outfit_id": "108501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1085_racewear.webp",
+        "1085_uniform.webp",
+        "1085_thumb.webp"
+      ]
+    },
+    {
+      "cid": 86,
+      "uma_id": 1086,
+      "name_zh": "目白高峰",
+      "name_jp": "メジロラモーヌ",
+      "category": "uma",
+      "outfit_id": "108601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1086_racewear.webp",
+        "1086_uniform.webp",
+        "1086_thumb.webp"
+      ]
+    },
+    {
+      "cid": 87,
+      "uma_id": 1087,
+      "name_zh": "真弓快车",
+      "name_jp": "アストンマーチャン",
+      "category": "uma",
+      "outfit_id": "108701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1087_racewear.webp",
+        "1087_uniform.webp",
+        "1087_thumb.webp"
+      ]
+    },
+    {
+      "cid": 88,
+      "uma_id": 1088,
+      "name_zh": "里见皇冠",
+      "name_jp": "サトノクラウン",
+      "category": "uma",
+      "outfit_id": "108801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1088_racewear.webp",
+        "1088_uniform.webp",
+        "1088_thumb.webp"
+      ]
+    },
+    {
+      "cid": 89,
+      "uma_id": 1089,
+      "name_zh": "高尚骏逸",
+      "name_jp": "シュヴァルグラン",
+      "category": "uma",
+      "outfit_id": "108901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1089_racewear.webp",
+        "1089_uniform.webp",
+        "1089_thumb.webp"
+      ]
+    },
+    {
+      "cid": 90,
+      "uma_id": 1090,
+      "name_zh": "极峰",
+      "name_jp": "ヴィルシーナ",
+      "category": "uma",
+      "outfit_id": "109001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1090_racewear.webp",
+        "1090_uniform.webp",
+        "1090_thumb.webp"
+      ]
+    },
+    {
+      "cid": 91,
+      "uma_id": 1091,
+      "name_zh": "强击",
+      "name_jp": "ヴィブロス",
+      "category": "uma",
+      "outfit_id": "109101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1091_racewear.webp",
+        "1091_uniform.webp",
+        "1091_thumb.webp"
+      ]
+    },
+    {
+      "cid": 92,
+      "uma_id": 1092,
+      "name_zh": "烈焰快驹",
+      "name_jp": "ダンツフレーム",
+      "category": "uma",
+      "outfit_id": "109201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1092_racewear.webp",
+        "1092_uniform.webp",
+        "1092_thumb.webp"
+      ]
+    },
+    {
+      "cid": 93,
+      "uma_id": 1093,
+      "name_zh": "凯斯奇迹",
+      "name_jp": "ケイエスミラクル",
+      "category": "uma",
+      "outfit_id": "109301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1093_racewear.webp",
+        "1093_uniform.webp",
+        "1093_thumb.webp"
+      ]
+    },
+    {
+      "cid": 94,
+      "uma_id": 1094,
+      "name_zh": "森林宝穴",
+      "name_jp": "ジャングルポケット",
+      "category": "uma",
+      "outfit_id": "109401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1094_racewear.webp",
+        "1094_uniform.webp",
+        "1094_thumb.webp"
+      ]
+    },
+    {
+      "cid": 95,
+      "uma_id": 1095,
+      "name_zh": "信念",
+      "name_jp": "ビリーヴ",
+      "category": "uma",
+      "outfit_id": "109501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1095_racewear.webp",
+        "1095_uniform.webp",
+        "1095_thumb.webp"
+      ]
+    },
+    {
+      "cid": 96,
+      "uma_id": 1096,
+      "name_zh": "莫名其妙",
+      "name_jp": "ノーリーズン",
+      "category": "uma",
+      "outfit_id": "109601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1096_racewear.webp",
+        "1096_uniform.webp",
+        "1096_thumb.webp"
+      ]
+    },
+    {
+      "cid": 97,
+      "uma_id": 1097,
+      "name_zh": "爱如往昔",
+      "name_jp": "スティルインラブ",
+      "category": "uma",
+      "outfit_id": "109701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1097_racewear.webp",
+        "1097_uniform.webp",
+        "1097_thumb.webp"
+      ]
+    },
+    {
+      "cid": 98,
+      "uma_id": 1098,
+      "name_zh": "小林历奇",
+      "name_jp": "コパノリッキー",
+      "category": "uma",
+      "outfit_id": "109801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1098_racewear.webp",
+        "1098_uniform.webp",
+        "1098_thumb.webp"
+      ]
+    },
+    {
+      "cid": 99,
+      "uma_id": 1099,
+      "name_zh": "北港火山",
+      "name_jp": "ホッコータルマエ",
+      "category": "uma",
+      "outfit_id": "109901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1099_racewear.webp",
+        "1099_uniform.webp",
+        "1099_thumb.webp"
+      ]
+    },
+    {
+      "cid": 100,
+      "uma_id": 1100,
+      "name_zh": "奇锐骏",
+      "name_jp": "ワンダーアキュート",
+      "category": "uma",
+      "outfit_id": "110001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1100_racewear.webp",
+        "1100_uniform.webp",
+        "1100_thumb.webp"
+      ]
+    },
+    {
+      "cid": 101,
+      "uma_id": 1101,
+      "name_zh": "大森逊",
+      "name_jp": "サムソンビッグ",
+      "category": "uma",
+      "outfit_id": "110101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1101_racewear.webp",
+        "1101_uniform.webp",
+        "1101_thumb.webp"
+      ]
+    },
+    {
+      "cid": 102,
+      "uma_id": 1102,
+      "name_zh": "万籁争鸣",
+      "name_jp": "サウンズオブアース",
+      "category": "uma",
+      "outfit_id": "110201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1102_racewear.webp",
+        "1102_uniform.webp",
+        "1102_thumb.webp"
+      ]
+    },
+    {
+      "cid": 103,
+      "uma_id": 1103,
+      "name_zh": "莱斯莱斯",
+      "name_jp": "ロイスアンドロイス",
+      "category": "uma",
+      "outfit_id": "110301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1103_racewear.webp",
+        "1103_uniform.webp",
+        "1103_thumb.webp"
+      ]
+    },
+    {
+      "cid": 104,
+      "uma_id": 1104,
+      "name_zh": "葛城王牌",
+      "name_jp": "カツラギエース",
+      "category": "uma",
+      "outfit_id": "110401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1104_racewear.webp",
+        "1104_uniform.webp",
+        "1104_thumb.webp"
+      ]
+    },
+    {
+      "cid": 105,
+      "uma_id": 1105,
+      "name_zh": "新宇宙",
+      "name_jp": "ネオユニヴァース",
+      "category": "uma",
+      "outfit_id": "110501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1105_racewear.webp",
+        "1105_uniform.webp",
+        "1105_thumb.webp"
+      ]
+    },
+    {
+      "cid": 106,
+      "uma_id": 1106,
+      "name_zh": "菱钻奇宝",
+      "name_jp": "ヒシミラクル",
+      "category": "uma",
+      "outfit_id": "110601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1106_racewear.webp",
+        "1106_uniform.webp",
+        "1106_thumb.webp"
+      ]
+    },
+    {
+      "cid": 107,
+      "uma_id": 1107,
+      "name_zh": "跳舞城",
+      "name_jp": "タップダンスシチー",
+      "category": "uma",
+      "outfit_id": "110701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1107_racewear.webp",
+        "1107_uniform.webp",
+        "1107_thumb.webp"
+      ]
+    },
+    {
+      "cid": 108,
+      "uma_id": 1108,
+      "name_zh": "大鸣大放",
+      "name_jp": "ドゥラメンテ",
+      "category": "uma",
+      "outfit_id": "110801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1108_racewear.webp",
+        "1108_uniform.webp",
+        "1108_thumb.webp"
+      ]
+    },
+    {
+      "cid": 109,
+      "uma_id": 1109,
+      "name_zh": "莱茵力量",
+      "name_jp": "ラインクラフト",
+      "category": "uma",
+      "outfit_id": "110901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1109_racewear.webp",
+        "1109_uniform.webp",
+        "1109_thumb.webp"
+      ]
+    },
+    {
+      "cid": 110,
+      "uma_id": 1110,
+      "name_zh": "西沙里奥",
+      "name_jp": "シーザリオ",
+      "category": "uma",
+      "outfit_id": "111001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1110_racewear.webp",
+        "1110_uniform.webp",
+        "1110_thumb.webp"
+      ]
+    },
+    {
+      "cid": 111,
+      "uma_id": 1111,
+      "name_zh": "空中救主",
+      "name_jp": "エアメサイア",
+      "category": "uma",
+      "outfit_id": "111101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1111_racewear.webp",
+        "1111_uniform.webp",
+        "1111_thumb.webp"
+      ]
+    },
+    {
+      "cid": 112,
+      "uma_id": 1112,
+      "name_zh": "勇敢之心",
+      "name_jp": "デアリングハート",
+      "category": "uma",
+      "outfit_id": "111201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1112_racewear.webp",
+        "1112_uniform.webp",
+        "1112_thumb.webp"
+      ]
+    },
+    {
+      "cid": 113,
+      "uma_id": 1113,
+      "name_zh": "房一魔盒",
+      "name_jp": "フサイチパンドラ",
+      "category": "uma",
+      "outfit_id": "111301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1113_racewear.webp",
+        "1113_uniform.webp",
+        "1113_thumb.webp"
+      ]
+    },
+    {
+      "cid": 114,
+      "uma_id": 1114,
+      "name_zh": "迷人景致",
+      "name_jp": "ブエナビスタ",
+      "category": "uma",
+      "outfit_id": "111401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1114_racewear.webp",
+        "1114_uniform.webp",
+        "1114_thumb.webp"
+      ]
+    },
+    {
+      "cid": 115,
+      "uma_id": 1115,
+      "name_zh": "黄金巨匠",
+      "name_jp": "オルフェーヴル",
+      "category": "uma",
+      "outfit_id": "111501",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1115_racewear.webp",
+        "1115_uniform.webp",
+        "1115_thumb.webp"
+      ]
+    },
+    {
+      "cid": 116,
+      "uma_id": 1116,
+      "name_zh": "贵妇人",
+      "name_jp": "ジェンティルドンナ",
+      "category": "uma",
+      "outfit_id": "111601",
+      "has_local_54": true,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1116_racewear.webp",
+        "1116_uniform.webp",
+        "1116_thumb.webp"
+      ]
+    },
+    {
+      "cid": 117,
+      "uma_id": 1117,
+      "name_zh": "凯旋芭蕾",
+      "name_jp": "ウインバリアシオン",
+      "category": "uma",
+      "outfit_id": "111701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1117_racewear.webp",
+        "1117_uniform.webp",
+        "1117_thumb.webp"
+      ]
+    },
+    {
+      "cid": 118,
+      "uma_id": 1118,
+      "name_zh": "爱慕律动",
+      "name_jp": "アドマイヤグルーヴ",
+      "category": "uma",
+      "outfit_id": "111801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1118_racewear.webp",
+        "1118_uniform.webp",
+        "1118_thumb.webp"
+      ]
+    },
+    {
+      "cid": 119,
+      "uma_id": 1119,
+      "name_zh": "梦之旅",
+      "name_jp": "ドリームジャーニー",
+      "category": "uma",
+      "outfit_id": "111901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1119_racewear.webp",
+        "1119_uniform.webp",
+        "1119_thumb.webp"
+      ]
+    },
+    {
+      "cid": 120,
+      "uma_id": 1120,
+      "name_zh": "金镇之光",
+      "name_jp": "カルストンライトオ",
+      "category": "uma",
+      "outfit_id": "112001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1120_racewear.webp",
+        "1120_uniform.webp",
+        "1120_thumb.webp"
+      ]
+    },
+    {
+      "cid": 121,
+      "uma_id": 1121,
+      "name_zh": "杜兰达尔",
+      "name_jp": "デュランダル",
+      "category": "uma",
+      "outfit_id": "112101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1121_racewear.webp",
+        "1121_uniform.webp",
+        "1121_thumb.webp"
+      ]
+    },
+    {
+      "cid": 124,
+      "uma_id": 1124,
+      "name_zh": "吹波糖",
+      "name_jp": "バブルガムフェロー",
+      "category": "uma",
+      "outfit_id": "112401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1124_racewear.webp",
+        "1124_uniform.webp",
+        "1124_thumb.webp"
+      ]
+    },
+    {
+      "cid": 126,
+      "uma_id": 1126,
+      "name_zh": "樱花千岁王",
+      "name_jp": "サクラチトセオー",
+      "category": "uma",
+      "outfit_id": "112601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1126_racewear.webp",
+        "1126_uniform.webp",
+        "1126_thumb.webp"
+      ]
+    },
+    {
+      "cid": 127,
+      "uma_id": 1127,
+      "name_zh": "超常骏骥",
+      "name_jp": "フェノーメノ",
+      "category": "uma",
+      "outfit_id": "112701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1127_racewear.webp",
+        "1127_uniform.webp",
+        "1127_thumb.webp"
+      ]
+    },
+    {
+      "cid": 128,
+      "uma_id": 1128,
+      "name_zh": "防爆装束",
+      "name_jp": "ブラストワンピース",
+      "category": "uma",
+      "outfit_id": "112801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1128_racewear.webp",
+        "1128_uniform.webp",
+        "1128_thumb.webp"
+      ]
+    },
+    {
+      "cid": 129,
+      "uma_id": 1129,
+      "name_zh": "杏目",
+      "name_jp": "アーモンドアイ",
+      "category": "uma",
+      "outfit_id": "112901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1129_racewear.webp",
+        "1129_uniform.webp",
+        "1129_thumb.webp"
+      ]
+    },
+    {
+      "cid": 130,
+      "uma_id": 1130,
+      "name_zh": "旺紫丁",
+      "name_jp": "ラッキーライラック",
+      "category": "uma",
+      "outfit_id": "113001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1130_racewear.webp",
+        "1130_uniform.webp",
+        "1130_thumb.webp"
+      ]
+    },
+    {
+      "cid": 131,
+      "uma_id": 1131,
+      "name_zh": "放声欢呼",
+      "name_jp": "グランアレグリア",
+      "category": "uma",
+      "outfit_id": "113101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1131_racewear.webp",
+        "1131_uniform.webp",
+        "1131_thumb.webp"
+      ]
+    },
+    {
+      "cid": 132,
+      "uma_id": 1132,
+      "name_zh": "唯独爱你",
+      "name_jp": "ラヴズオンリーユー",
+      "category": "uma",
+      "outfit_id": "113201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1132_racewear.webp",
+        "1132_uniform.webp",
+        "1132_thumb.webp"
+      ]
+    },
+    {
+      "cid": 133,
+      "uma_id": 1133,
+      "name_zh": "创世驹",
+      "name_jp": "クロノジェネシス",
+      "category": "uma",
+      "outfit_id": "113301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1133_racewear.webp",
+        "1133_uniform.webp",
+        "1133_thumb.webp"
+      ]
+    },
+    {
+      "cid": 134,
+      "uma_id": 1134,
+      "name_zh": "机伶金花",
+      "name_jp": "カレンブーケドール",
+      "category": "uma",
+      "outfit_id": "113401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1134_racewear.webp",
+        "1134_uniform.webp",
+        "1134_thumb.webp"
+      ]
+    },
+    {
+      "cid": 135,
+      "uma_id": 1135,
+      "name_zh": "黄金旅程",
+      "name_jp": "ステイゴールド",
+      "category": "uma",
+      "outfit_id": "113501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1135_racewear.webp",
+        "1135_uniform.webp",
+        "1135_thumb.webp"
+      ]
+    },
+    {
+      "cid": 136,
+      "uma_id": 1136,
+      "name_zh": "红色梦想",
+      "name_jp": "レッドディザイア",
+      "category": "uma",
+      "outfit_id": "113601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1136_racewear.webp",
+        "1136_uniform.webp",
+        "1136_thumb.webp"
+      ]
+    },
+    {
+      "cid": 137,
+      "uma_id": 1137,
+      "name_zh": "神业",
+      "name_jp": "キセキ",
+      "category": "uma",
+      "outfit_id": "113701",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1137_racewear.webp",
+        "1137_uniform.webp",
+        "1137_thumb.webp"
+      ]
+    },
+    {
+      "cid": 138,
+      "uma_id": 1138,
+      "name_zh": "青春永驻",
+      "name_jp": "フォーエバーヤング",
+      "category": "uma",
+      "outfit_id": "113801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1138_racewear.webp",
+        "1138_uniform.webp",
+        "1138_thumb.webp"
+      ]
+    },
+    {
+      "cid": 139,
+      "uma_id": 1139,
+      "name_zh": "娱乐场",
+      "name_jp": "カジノドライヴ",
+      "category": "uma",
+      "outfit_id": "113901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1139_racewear.webp",
+        "1139_uniform.webp",
+        "1139_thumb.webp"
+      ]
+    },
+    {
+      "cid": 140,
+      "uma_id": 1140,
+      "name_zh": "洛林军歌",
+      "name_jp": "マルシュロレーヌ",
+      "category": "uma",
+      "outfit_id": "114001",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1140_racewear.webp",
+        "1140_uniform.webp",
+        "1140_thumb.webp"
+      ]
+    },
+    {
+      "cid": 141,
+      "uma_id": 1141,
+      "name_zh": "神威启示",
+      "name_jp": "エピファネイア",
+      "category": "uma",
+      "outfit_id": "114101",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1141_racewear.webp",
+        "1141_uniform.webp",
+        "1141_thumb.webp"
+      ]
+    },
+    {
+      "cid": 142,
+      "uma_id": 1142,
+      "name_zh": "标志名驹",
+      "name_jp": "ロゴタイプ",
+      "category": "uma",
+      "outfit_id": "114201",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1142_racewear.webp",
+        "1142_uniform.webp",
+        "1142_thumb.webp"
+      ]
+    },
+    {
+      "cid": 143,
+      "uma_id": 1143,
+      "name_zh": "比萨胜驹",
+      "name_jp": "ヴィクトワールピサ",
+      "category": "uma",
+      "outfit_id": "114301",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1143_racewear.webp",
+        "1143_uniform.webp",
+        "1143_thumb.webp"
+      ]
+    },
+    {
+      "cid": 144,
+      "uma_id": 1144,
+      "name_zh": "玫瑰帝国",
+      "name_jp": "ローズキングダム",
+      "category": "uma",
+      "outfit_id": "114401",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1144_racewear.webp",
+        "1144_uniform.webp",
+        "1144_thumb.webp"
+      ]
+    },
+    {
+      "cid": 145,
+      "uma_id": 1145,
+      "name_zh": "统治地位",
+      "name_jp": "ルーラーシップ",
+      "category": "uma",
+      "outfit_id": "114501",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1145_racewear.webp",
+        "1145_uniform.webp",
+        "1145_thumb.webp"
+      ]
+    },
+    {
+      "cid": 146,
+      "uma_id": 1146,
+      "name_zh": "乐透心",
+      "name_jp": "エフフォーリア",
+      "category": "uma",
+      "outfit_id": "114601",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1146_racewear.webp",
+        "1146_uniform.webp",
+        "1146_thumb.webp"
+      ]
+    },
+    {
+      "cid": 148,
+      "uma_id": 1148,
+      "name_zh": "领衔",
+      "name_jp": "タイトルホルダー",
+      "category": "uma",
+      "outfit_id": "114801",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1148_racewear.webp",
+        "1148_uniform.webp",
+        "1148_thumb.webp"
+      ]
+    },
+    {
+      "cid": 149,
+      "uma_id": 1149,
+      "name_zh": "蝴蝶兰",
+      "name_jp": "ファレノプシス",
+      "category": "uma",
+      "outfit_id": "114901",
+      "has_local_54": false,
+      "gametora_supported": true,
+      "recommended_files": [
+        "1149_racewear.webp",
+        "1149_uniform.webp",
+        "1149_thumb.webp"
+      ]
+    },
+    {
+      "cid": 201,
+      "uma_id": 201,
+      "name_zh": "快乐米可",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "201_racewear.webp",
+        "201_uniform.webp",
+        "201_thumb.webp"
+      ]
+    },
+    {
+      "cid": 202,
+      "uma_id": 202,
+      "name_zh": "苦涩糖衣",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "202_racewear.webp",
+        "202_uniform.webp",
+        "202_thumb.webp"
+      ]
+    },
+    {
+      "cid": 203,
+      "uma_id": 203,
+      "name_zh": "小小蚕茧",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "203_racewear.webp",
+        "203_uniform.webp",
+        "203_thumb.webp"
+      ]
+    },
+    {
+      "cid": 204,
+      "uma_id": 204,
+      "name_zh": "望族",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "204_racewear.webp",
+        "204_uniform.webp",
+        "204_thumb.webp"
+      ]
+    },
+    {
+      "cid": 205,
+      "uma_id": 205,
+      "name_zh": "卓芙",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "205_racewear.webp",
+        "205_uniform.webp",
+        "205_thumb.webp"
+      ]
+    },
+    {
+      "cid": 206,
+      "uma_id": 206,
+      "name_zh": "勇舞",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "206_racewear.webp",
+        "206_uniform.webp",
+        "206_thumb.webp"
+      ]
+    },
+    {
+      "cid": 207,
+      "uma_id": 207,
+      "name_zh": "索侬艾尔菲",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "207_racewear.webp",
+        "207_uniform.webp",
+        "207_thumb.webp"
+      ]
+    },
+    {
+      "cid": 301,
+      "uma_id": 301,
+      "name_zh": "骏川缰绳",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "301_racewear.webp",
+        "301_uniform.webp",
+        "301_thumb.webp"
+      ]
+    },
+    {
+      "cid": 302,
+      "uma_id": 302,
+      "name_zh": "秋川弥生",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "302_racewear.webp",
+        "302_uniform.webp",
+        "302_thumb.webp"
+      ]
+    },
+    {
+      "cid": 303,
+      "uma_id": 303,
+      "name_zh": "乙名史悦子",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "303_racewear.webp",
+        "303_uniform.webp",
+        "303_thumb.webp"
+      ]
+    },
+    {
+      "cid": 304,
+      "uma_id": 304,
+      "name_zh": "桐生院葵",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "304_racewear.webp",
+        "304_uniform.webp",
+        "304_thumb.webp"
+      ]
+    },
+    {
+      "cid": 305,
+      "uma_id": 305,
+      "name_zh": "安心泽刺刺美",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "305_racewear.webp",
+        "305_uniform.webp",
+        "305_thumb.webp"
+      ]
+    },
+    {
+      "cid": 306,
+      "uma_id": 306,
+      "name_zh": "㭴本理子",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "306_racewear.webp",
+        "306_uniform.webp",
+        "306_thumb.webp"
+      ]
+    },
+    {
+      "cid": 308,
+      "uma_id": 308,
+      "name_zh": "光辉致意",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "308_racewear.webp",
+        "308_uniform.webp",
+        "308_thumb.webp"
+      ]
+    },
+    {
+      "cid": 340,
+      "uma_id": 340,
+      "name_zh": "达利阿拉伯",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "340_racewear.webp",
+        "340_uniform.webp",
+        "340_thumb.webp"
+      ]
+    },
+    {
+      "cid": 341,
+      "uma_id": 341,
+      "name_zh": "高多芬柏布",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "341_racewear.webp",
+        "341_uniform.webp",
+        "341_thumb.webp"
+      ]
+    },
+    {
+      "cid": 342,
+      "uma_id": 342,
+      "name_zh": "拜耶尔土耳其",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "342_racewear.webp",
+        "342_uniform.webp",
+        "342_thumb.webp"
+      ]
+    },
+    {
+      "cid": 343,
+      "uma_id": 343,
+      "name_zh": "佐岳五月",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "343_racewear.webp",
+        "343_uniform.webp",
+        "343_thumb.webp"
+      ]
+    },
+    {
+      "cid": 344,
+      "uma_id": 344,
+      "name_zh": "都留歧凉花",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "344_racewear.webp",
+        "344_uniform.webp",
+        "344_thumb.webp"
+      ]
+    },
+    {
+      "cid": 345,
+      "uma_id": 345,
+      "name_zh": "砂糖灯",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "345_racewear.webp",
+        "345_uniform.webp",
+        "345_thumb.webp"
+      ]
+    },
+    {
+      "cid": 346,
+      "uma_id": 346,
+      "name_zh": "圣烈特",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "346_racewear.webp",
+        "346_uniform.webp",
+        "346_thumb.webp"
+      ]
+    },
+    {
+      "cid": 347,
+      "uma_id": 347,
+      "name_zh": "速度象征",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "347_racewear.webp",
+        "347_uniform.webp",
+        "347_thumb.webp"
+      ]
+    },
+    {
+      "cid": 348,
+      "uma_id": 348,
+      "name_zh": "海塞克",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "348_racewear.webp",
+        "348_uniform.webp",
+        "348_thumb.webp"
+      ]
+    },
+    {
+      "cid": 349,
+      "uma_id": 349,
+      "name_zh": "百炼砥石",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "349_racewear.webp",
+        "349_uniform.webp",
+        "349_thumb.webp"
+      ]
+    },
+    {
+      "cid": 350,
+      "uma_id": 350,
+      "name_zh": "保科健子",
+      "name_jp": "",
+      "category": "npc",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "350_racewear.webp",
+        "350_uniform.webp",
+        "350_thumb.webp"
+      ]
+    },
+    {
+      "cid": 351,
+      "uma_id": 351,
+      "name_zh": "汤华绽放",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "351_racewear.webp",
+        "351_uniform.webp",
+        "351_thumb.webp"
+      ]
+    },
+    {
+      "cid": 400,
+      "uma_id": 400,
+      "name_zh": "周日宁静",
+      "name_jp": "",
+      "category": "uma",
+      "outfit_id": "",
+      "has_local_54": false,
+      "gametora_supported": false,
+      "recommended_files": [
+        "400_racewear.webp",
+        "400_uniform.webp",
+        "400_thumb.webp"
+      ]
+    }
+  ]
+}
